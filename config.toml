@@ -1,13 +1,14 @@
-baseURL = "http://example.com/"
+baseURL = "https://MarshalGames.github.io/"
 languageCode = "en-us"
 title = "Marshal Games"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+publishDir = "MarshalGames.github.io"
 
 [params]
     author = "Calin Tataru"
-    description = "Personal dev blog theme powered by Hugo"
+    description = "Personal dev blog"
     githubUsername = "#"
     accent = "red"
     showBorder = true
