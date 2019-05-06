@@ -1,3 +1,6 @@
 [submodule "themes/minimal"]
 	path = themes/minimal
 	url = https://github.com/calintat/minimal.git
+[submodule "MarshalGames.github.io"]
+	path = MarshalGames.github.io
+	url = git@github.com:MarshalGames/MarshalGames.github.io.git
