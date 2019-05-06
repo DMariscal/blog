@@ -9,7 +9,7 @@ fi
 
 # Add first the changes to the blog source
 git add .
-git commit -m "msg"
+git commit -m "$msg"
 git push origin master
 
 # Build the project.
